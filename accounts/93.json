@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "iitsafalta",
+  "private_key_id": "e8584c2772de17fc67c27fc85bb4192ab6567f66",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCSN6zy5l4KVW7u\nUnvV0wphsjXqt3SA/fpRBGIolNm+NyJVQLkOiIqmAL4mgeQWAme87aAdzLDEHTxZ\nY0ppdatPGUXqRnfWLQfienIjkScu2Rv1vcCdsYgqvTC703/dFfzSnA49plqOB0Yv\n3vE+Q7RQqGftwL9T/p2emvQQ+BReDzNQx1CYeLOSLOsNusag6yVu9FHAnCTZoiD1\nRG3IBwEX7trFVZ3e75MfAlkLNPLJqETBZQsRBKBMjwEvGWeNaMz8h0ymx3cadeFx\nKt/4rfozrycEIGbKeoeCEgqnI4iTvzMxfjnkzhKz98/czUq1l9HuWl74oTnIUBJM\ny7UwXBBjAgMBAAECggEADU0e9hUfzpfZWLkh28tFgVVZaJ9EwWvuprUb4C4zpVqq\n9w9wEOg57gJY9J7SABs66FRuQZe6fYoH+z0NlWISHJwjdehFhDMiKaeoP3UNF/Vs\ngOKV+vfIon6wcr25lC6pClhjm+xzW21CT3OGsE/aFOZPrLC2lwOtaggVlipDNrp5\nuv4NmQI4/ZiAkGoCcyyY0Yg25gw+K4gFSxS46W0q4uEHMA7nSCZmZscDMkoW+BRN\nBOQt0zaJzlRXH0NomL9X8z4Jih8/fgJPSR8oVKAc7Dp749+oSJAvwGUpEH1PmWzy\n5+8VOjFCCDQYlgWNtwz7tyJOjf6KgvS5Scg++mMMCQKBgQDDVeTAfSdbH/AnGDoT\nmYH1r75DqklohTRyKCsEoXCHQ0SEhEcZh9LAWG/2PrYRB5qI9fHZ+aG7/X8YEQ6K\nGbQl5le9TkO8v5beEhRvPJHlGJ0xiMz4R9LzBZgdpm7kpxiraTtisg7CCNrHIgqY\nEfjd9aMg/jUanyX36+KUHorZKwKBgQC/oKnXvB0Uo0SNW4KfhsEI1oEsjlkjfsfH\nL8Y3FWw7LfZfkYAiqgsD8s2zhRTjXj/7taRxDDTS4YYIb/+4lNnCLZEqEpFMlvsn\nm8HD3lIiaq8/37lr2lpyVM29J3p9JZKDa/g39zDAoONjqByL3f8IoocIuExPawnQ\n7gQ93LiZqQKBgHSvYaeu24yuxnnEGiVNJPoL0p9/ILzkHZE394KboanbgBmdHw/c\nOAQYkEFL8ty3axP3v1KTsY6n/nz063eJpTiiobT/BK3C0S+1IynTx99P1c8aRj7m\nQNhVdin4GvRR8QWsJgJuFSzJt08PQb7XtY95xcnWsQhHG5o++am7mPvjAoGBAIo3\nMgn/DuKh2II07QRvR7A+N7GRgs3NVf9fgBKfCw+sWTYZVliqWYOhj6jaZnSQuImv\nPEqlyTwJmolfbw0Nn/skrr2v4slhZQnumFXUd12HoZvqnG0kc3Rfon26iejWPtU3\n/TMwwiNOaHSq/twLZTYvNEKf27q0s8HUy45rM2LxAoGBALEGB0yt+oYPsmJfnkKJ\nY3/smkmaGpMATy3L7Byyuxwip4cvL2QzNlEjTLVAwTN0v9VrI/hw0Vf9xza4fB7b\n/G0m2dG99ykHUlbbkpOo+HZ7STmj4AbrSoDZHnBO6OhAFSGk3vq/oPIIGoqVsqQi\nniqq3Ff29fQvGzWrRHNI3m2o\n-----END PRIVATE KEY-----\n",
+  "client_email": "mfc-tmkzuz5nia36tcpya-c6nillgs@iitsafalta.iam.gserviceaccount.com",
+  "client_id": "100517754502224899888",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/mfc-tmkzuz5nia36tcpya-c6nillgs%40iitsafalta.iam.gserviceaccount.com"
+}
